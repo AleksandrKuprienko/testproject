@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972693116781",
+    "firebase_url": "https://testproject-b2d9f.firebaseio.com",
+    "project_id": "testproject-b2d9f",
+    "storage_bucket": "testproject-b2d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972693116781:android:e5f30feb34624532d6ec64",
+        "android_client_info": {
+          "package_name": "com.akuper.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972693116781-t9i3v4qlbv42kav1voq6e7pe6ifpl7t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLwTjCE8wCSK8nM8L7KoQq5ZDq1Af1Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972693116781-t9i3v4qlbv42kav1voq6e7pe6ifpl7t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972693116781-m4881n3191l5gpefhi513l86oioijsve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akuper.testproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
