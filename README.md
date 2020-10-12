@@ -1,7 +1,1 @@
-![alt text](https://github.com/AleksandrKuprienko/testproject/blob/main/screenshots/welcomescreen.png)
-![alt text](https://github.com/AleksandrKuprienko/testproject/blob/main/screenshots/loginscreen.png)
-![alt text](https://github.com/AleksandrKuprienko/testproject/blob/main/screenshots/registerscreen.png)
-![alt text](https://github.com/AleksandrKuprienko/testproject/blob/main/screenshots/mainscreengrid.png)
-![alt text](https://github.com/AleksandrKuprienko/testproject/blob/main/screenshots/mainscreenlist.png)
-![alt text](https://github.com/AleksandrKuprienko/testproject/blob/main/screenshots/addproductscreen.png)
-![alt text](https://github.com/AleksandrKuprienko/testproject/blob/main/screenshots/userscreen.png)
+
