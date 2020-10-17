@@ -25,21 +25,3 @@ class Product {
         price: data['price'],
       );
 }
-// var snapshot = await _firestore.collection('trophies').get();
-// _trophies = snapshot.docs.map((e)  =>  Trophy.fromFirebase(e.data())).toList();
-
-// class ProductsList {
-//   List<Product> products;
-//   ProductsList({this.products});
-
-//   factory ProductsList.fromFirebase(Map<String, dynamic> data) {
-//     var officesData = data['products'] as List;
-
-//     List<Product> productsList =
-//         officesData.map((e) => Product.fromFirebase(e)).toList();
-
-//     return ProductsList(
-//       products: data['products'],
-//     );
-//   }
-// }
