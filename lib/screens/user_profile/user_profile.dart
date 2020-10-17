@@ -6,7 +6,6 @@ class UserScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     UserProvider _provider = Provider.of<UserProvider>(context);
-    _provider.getAuthUser();
     return Scaffold(
       appBar: AppBar(
         title: Text('Мой аккаунт'),
